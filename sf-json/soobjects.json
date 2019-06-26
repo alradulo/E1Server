@@ -1,0 +1,3499 @@
+{
+  "totalSize": 499,
+  "done": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AcceptedEventRelation"
+      },
+      "QualifiedApiName": "AcceptedEventRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Account"
+      },
+      "QualifiedApiName": "Account"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEbX"
+      },
+      "QualifiedApiName": "Account_Handling_Relationships__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEbX.ChangeEvent"
+      },
+      "QualifiedApiName": "Account_Handling_Relationships__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEbX.History"
+      },
+      "QualifiedApiName": "Account_Handling_Relationships__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountChangeEvent"
+      },
+      "QualifiedApiName": "AccountChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountContactRole"
+      },
+      "QualifiedApiName": "AccountContactRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountFeed"
+      },
+      "QualifiedApiName": "AccountFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountHistory"
+      },
+      "QualifiedApiName": "AccountHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountPartner"
+      },
+      "QualifiedApiName": "AccountPartner"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountShare"
+      },
+      "QualifiedApiName": "AccountShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AccountTeamMember"
+      },
+      "QualifiedApiName": "AccountTeamMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ActionLinkGroupTemplate"
+      },
+      "QualifiedApiName": "ActionLinkGroupTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ActionLinkTemplate"
+      },
+      "QualifiedApiName": "ActionLinkTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ActivityHistory"
+      },
+      "QualifiedApiName": "ActivityHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AdditionalNumber"
+      },
+      "QualifiedApiName": "AdditionalNumber"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AggregateResult"
+      },
+      "QualifiedApiName": "AggregateResult"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Announcement"
+      },
+      "QualifiedApiName": "Announcement"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexClass"
+      },
+      "QualifiedApiName": "ApexClass"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexComponent"
+      },
+      "QualifiedApiName": "ApexComponent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexEmailNotification"
+      },
+      "QualifiedApiName": "ApexEmailNotification"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexLog"
+      },
+      "QualifiedApiName": "ApexLog"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexPage"
+      },
+      "QualifiedApiName": "ApexPage"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexPageInfo"
+      },
+      "QualifiedApiName": "ApexPageInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTestQueueItem"
+      },
+      "QualifiedApiName": "ApexTestQueueItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTestResult"
+      },
+      "QualifiedApiName": "ApexTestResult"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTestResultLimits"
+      },
+      "QualifiedApiName": "ApexTestResultLimits"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTestRunResult"
+      },
+      "QualifiedApiName": "ApexTestRunResult"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTestSuite"
+      },
+      "QualifiedApiName": "ApexTestSuite"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ApexTrigger"
+      },
+      "QualifiedApiName": "ApexTrigger"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AppMenuItem"
+      },
+      "QualifiedApiName": "AppMenuItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Approval"
+      },
+      "QualifiedApiName": "Approval"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Asset"
+      },
+      "QualifiedApiName": "Asset"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetChangeEvent"
+      },
+      "QualifiedApiName": "AssetChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetFeed"
+      },
+      "QualifiedApiName": "AssetFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetHistory"
+      },
+      "QualifiedApiName": "AssetHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetRelationship"
+      },
+      "QualifiedApiName": "AssetRelationship"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetRelationshipFeed"
+      },
+      "QualifiedApiName": "AssetRelationshipFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetRelationshipHistory"
+      },
+      "QualifiedApiName": "AssetRelationshipHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssetTokenEvent"
+      },
+      "QualifiedApiName": "AssetTokenEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AssignmentRule"
+      },
+      "QualifiedApiName": "AssignmentRule"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AsyncApexJob"
+      },
+      "QualifiedApiName": "AsyncApexJob"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AttachedContentDocument"
+      },
+      "QualifiedApiName": "AttachedContentDocument"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Attachment"
+      },
+      "QualifiedApiName": "Attachment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuraDefinition"
+      },
+      "QualifiedApiName": "AuraDefinition"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuraDefinitionBundle"
+      },
+      "QualifiedApiName": "AuraDefinitionBundle"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuraDefinitionBundleInfo"
+      },
+      "QualifiedApiName": "AuraDefinitionBundleInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuraDefinitionInfo"
+      },
+      "QualifiedApiName": "AuraDefinitionInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuthConfig"
+      },
+      "QualifiedApiName": "AuthConfig"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuthConfigProviders"
+      },
+      "QualifiedApiName": "AuthConfigProviders"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuthProvider"
+      },
+      "QualifiedApiName": "AuthProvider"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/AuthSession"
+      },
+      "QualifiedApiName": "AuthSession"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BackgroundOperation"
+      },
+      "QualifiedApiName": "BackgroundOperation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI1"
+      },
+      "QualifiedApiName": "box__BOSS_Exception__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI1.ChangeEvent"
+      },
+      "QualifiedApiName": "box__BOSS_Exception__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI4"
+      },
+      "QualifiedApiName": "box__Folder_Details__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI4.ChangeEvent"
+      },
+      "QualifiedApiName": "box__Folder_Details__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI5"
+      },
+      "QualifiedApiName": "box__Folder_Meta__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI3"
+      },
+      "QualifiedApiName": "box__FRUP__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI3.ChangeEvent"
+      },
+      "QualifiedApiName": "box__FRUP__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI6"
+      },
+      "QualifiedApiName": "box__ItemMoveQueue__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI6.ChangeEvent"
+      },
+      "QualifiedApiName": "box__ItemMoveQueue__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI8"
+      },
+      "QualifiedApiName": "box__Lead_Setting__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI8.ChangeEvent"
+      },
+      "QualifiedApiName": "box__Lead_Setting__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI7"
+      },
+      "QualifiedApiName": "box__LeadConvertQueue__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI7.ChangeEvent"
+      },
+      "QualifiedApiName": "box__LeadConvertQueue__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI9"
+      },
+      "QualifiedApiName": "box__SSO_Setting__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001pKI9.ChangeEvent"
+      },
+      "QualifiedApiName": "box__SSO_Setting__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BrandingSet"
+      },
+      "QualifiedApiName": "BrandingSet"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BrandingSetProperty"
+      },
+      "QualifiedApiName": "BrandingSetProperty"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BrandTemplate"
+      },
+      "QualifiedApiName": "BrandTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BusinessHours"
+      },
+      "QualifiedApiName": "BusinessHours"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/BusinessProcess"
+      },
+      "QualifiedApiName": "BusinessProcess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CallCenter"
+      },
+      "QualifiedApiName": "CallCenter"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Campaign"
+      },
+      "QualifiedApiName": "Campaign"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignChangeEvent"
+      },
+      "QualifiedApiName": "CampaignChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignFeed"
+      },
+      "QualifiedApiName": "CampaignFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignHistory"
+      },
+      "QualifiedApiName": "CampaignHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignMember"
+      },
+      "QualifiedApiName": "CampaignMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignMemberStatus"
+      },
+      "QualifiedApiName": "CampaignMemberStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CampaignShare"
+      },
+      "QualifiedApiName": "CampaignShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Case"
+      },
+      "QualifiedApiName": "Case"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F6"
+      },
+      "QualifiedApiName": "Case_Team__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F6.ChangeEvent"
+      },
+      "QualifiedApiName": "Case_Team__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseChangeEvent"
+      },
+      "QualifiedApiName": "CaseChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseComment"
+      },
+      "QualifiedApiName": "CaseComment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseContactRole"
+      },
+      "QualifiedApiName": "CaseContactRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseFeed"
+      },
+      "QualifiedApiName": "CaseFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseHistory"
+      },
+      "QualifiedApiName": "CaseHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEWg"
+      },
+      "QualifiedApiName": "Cases_Analytic_Snapshot__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEWg.ChangeEvent"
+      },
+      "QualifiedApiName": "Cases_Analytic_Snapshot__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TEWg.History"
+      },
+      "QualifiedApiName": "Cases_Analytic_Snapshot__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseShare"
+      },
+      "QualifiedApiName": "CaseShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseSolution"
+      },
+      "QualifiedApiName": "CaseSolution"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseStatus"
+      },
+      "QualifiedApiName": "CaseStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseSubjectParticle"
+      },
+      "QualifiedApiName": "CaseSubjectParticle"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseTeamMember"
+      },
+      "QualifiedApiName": "CaseTeamMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseTeamRole"
+      },
+      "QualifiedApiName": "CaseTeamRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseTeamTemplate"
+      },
+      "QualifiedApiName": "CaseTeamTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseTeamTemplateMember"
+      },
+      "QualifiedApiName": "CaseTeamTemplateMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CaseTeamTemplateRecord"
+      },
+      "QualifiedApiName": "CaseTeamTemplateRecord"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CategoryData"
+      },
+      "QualifiedApiName": "CategoryData"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CategoryNode"
+      },
+      "QualifiedApiName": "CategoryNode"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ChatterActivity"
+      },
+      "QualifiedApiName": "ChatterActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ChatterAnswersActivity"
+      },
+      "QualifiedApiName": "ChatterAnswersActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ChatterAnswersReputationLevel"
+      },
+      "QualifiedApiName": "ChatterAnswersReputationLevel"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ChatterExtension"
+      },
+      "QualifiedApiName": "ChatterExtension"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ChatterExtensionConfig"
+      },
+      "QualifiedApiName": "ChatterExtensionConfig"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ClientBrowser"
+      },
+      "QualifiedApiName": "ClientBrowser"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationGroup"
+      },
+      "QualifiedApiName": "CollaborationGroup"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationGroupFeed"
+      },
+      "QualifiedApiName": "CollaborationGroupFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationGroupMember"
+      },
+      "QualifiedApiName": "CollaborationGroupMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationGroupMemberRequest"
+      },
+      "QualifiedApiName": "CollaborationGroupMemberRequest"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationGroupRecord"
+      },
+      "QualifiedApiName": "CollaborationGroupRecord"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CollaborationInvitation"
+      },
+      "QualifiedApiName": "CollaborationInvitation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CombinedAttachment"
+      },
+      "QualifiedApiName": "CombinedAttachment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Community"
+      },
+      "QualifiedApiName": "Community"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ConnectedApplication"
+      },
+      "QualifiedApiName": "ConnectedApplication"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oYXR"
+      },
+      "QualifiedApiName": "Consulting_and_Services__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oYXR.ChangeEvent"
+      },
+      "QualifiedApiName": "Consulting_and_Services__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Contact"
+      },
+      "QualifiedApiName": "Contact"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContactChangeEvent"
+      },
+      "QualifiedApiName": "ContactChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContactFeed"
+      },
+      "QualifiedApiName": "ContactFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContactHistory"
+      },
+      "QualifiedApiName": "ContactHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContactShare"
+      },
+      "QualifiedApiName": "ContactShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentAsset"
+      },
+      "QualifiedApiName": "ContentAsset"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentBody"
+      },
+      "QualifiedApiName": "ContentBody"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDistribution"
+      },
+      "QualifiedApiName": "ContentDistribution"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDistributionView"
+      },
+      "QualifiedApiName": "ContentDistributionView"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDocument"
+      },
+      "QualifiedApiName": "ContentDocument"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDocumentFeed"
+      },
+      "QualifiedApiName": "ContentDocumentFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDocumentHistory"
+      },
+      "QualifiedApiName": "ContentDocumentHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDocumentLink"
+      },
+      "QualifiedApiName": "ContentDocumentLink"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentDocumentSubscription"
+      },
+      "QualifiedApiName": "ContentDocumentSubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentFolder"
+      },
+      "QualifiedApiName": "ContentFolder"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentFolderItem"
+      },
+      "QualifiedApiName": "ContentFolderItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentFolderLink"
+      },
+      "QualifiedApiName": "ContentFolderLink"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentFolderMember"
+      },
+      "QualifiedApiName": "ContentFolderMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentHubItem"
+      },
+      "QualifiedApiName": "ContentHubItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentHubRepository"
+      },
+      "QualifiedApiName": "ContentHubRepository"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentNotification"
+      },
+      "QualifiedApiName": "ContentNotification"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentTagSubscription"
+      },
+      "QualifiedApiName": "ContentTagSubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentUserSubscription"
+      },
+      "QualifiedApiName": "ContentUserSubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentVersion"
+      },
+      "QualifiedApiName": "ContentVersion"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentVersionComment"
+      },
+      "QualifiedApiName": "ContentVersionComment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentVersionHistory"
+      },
+      "QualifiedApiName": "ContentVersionHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentVersionRating"
+      },
+      "QualifiedApiName": "ContentVersionRating"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentWorkspace"
+      },
+      "QualifiedApiName": "ContentWorkspace"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentWorkspaceDoc"
+      },
+      "QualifiedApiName": "ContentWorkspaceDoc"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentWorkspaceMember"
+      },
+      "QualifiedApiName": "ContentWorkspaceMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentWorkspacePermission"
+      },
+      "QualifiedApiName": "ContentWorkspacePermission"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContentWorkspaceSubscription"
+      },
+      "QualifiedApiName": "ContentWorkspaceSubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Contract"
+      },
+      "QualifiedApiName": "Contract"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Sh6d"
+      },
+      "QualifiedApiName": "Contract__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Sh6d.ChangeEvent"
+      },
+      "QualifiedApiName": "Contract__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Sh6d.History"
+      },
+      "QualifiedApiName": "Contract__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContractContactRole"
+      },
+      "QualifiedApiName": "ContractContactRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContractFeed"
+      },
+      "QualifiedApiName": "ContractFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContractHistory"
+      },
+      "QualifiedApiName": "ContractHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ContractStatus"
+      },
+      "QualifiedApiName": "ContractStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CorsWhitelistEntry"
+      },
+      "QualifiedApiName": "CorsWhitelistEntry"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oSvH"
+      },
+      "QualifiedApiName": "Credentials__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CronJobDetail"
+      },
+      "QualifiedApiName": "CronJobDetail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CronTrigger"
+      },
+      "QualifiedApiName": "CronTrigger"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CspTrustedSite"
+      },
+      "QualifiedApiName": "CspTrustedSite"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CustomBrand"
+      },
+      "QualifiedApiName": "CustomBrand"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CustomBrandAsset"
+      },
+      "QualifiedApiName": "CustomBrandAsset"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CustomObjectUserLicenseMetrics"
+      },
+      "QualifiedApiName": "CustomObjectUserLicenseMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CustomPermission"
+      },
+      "QualifiedApiName": "CustomPermission"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/CustomPermissionDependency"
+      },
+      "QualifiedApiName": "CustomPermissionDependency"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Dashboard"
+      },
+      "QualifiedApiName": "Dashboard"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DashboardComponent"
+      },
+      "QualifiedApiName": "DashboardComponent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DashboardComponentFeed"
+      },
+      "QualifiedApiName": "DashboardComponentFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DashboardFeed"
+      },
+      "QualifiedApiName": "DashboardFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataAssessmentFieldMetric"
+      },
+      "QualifiedApiName": "DataAssessmentFieldMetric"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataAssessmentMetric"
+      },
+      "QualifiedApiName": "DataAssessmentMetric"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataAssessmentValueMetric"
+      },
+      "QualifiedApiName": "DataAssessmentValueMetric"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DatacloudAddress"
+      },
+      "QualifiedApiName": "DatacloudAddress"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataIntegrationRecordPurchasePermission"
+      },
+      "QualifiedApiName": "DataIntegrationRecordPurchasePermission"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataStatistics"
+      },
+      "QualifiedApiName": "DataStatistics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DataType"
+      },
+      "QualifiedApiName": "DataType"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DeclinedEventRelation"
+      },
+      "QualifiedApiName": "DeclinedEventRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38I"
+      },
+      "QualifiedApiName": "Diagnosis__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38I.ChangeEvent"
+      },
+      "QualifiedApiName": "Diagnosis__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38I.History"
+      },
+      "QualifiedApiName": "Diagnosis__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fp"
+      },
+      "QualifiedApiName": "Diagnostics__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fp.ChangeEvent"
+      },
+      "QualifiedApiName": "Diagnostics__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Document"
+      },
+      "QualifiedApiName": "Document"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DocumentAttachmentMap"
+      },
+      "QualifiedApiName": "DocumentAttachmentMap"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Domain"
+      },
+      "QualifiedApiName": "Domain"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DomainSite"
+      },
+      "QualifiedApiName": "DomainSite"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DuplicateRecordItem"
+      },
+      "QualifiedApiName": "DuplicateRecordItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DuplicateRecordSet"
+      },
+      "QualifiedApiName": "DuplicateRecordSet"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/DuplicateRule"
+      },
+      "QualifiedApiName": "DuplicateRule"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailCapture"
+      },
+      "QualifiedApiName": "EmailCapture"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailDomainKey"
+      },
+      "QualifiedApiName": "EmailDomainKey"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailMessage"
+      },
+      "QualifiedApiName": "EmailMessage"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailMessageRelation"
+      },
+      "QualifiedApiName": "EmailMessageRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailServicesAddress"
+      },
+      "QualifiedApiName": "EmailServicesAddress"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailServicesFunction"
+      },
+      "QualifiedApiName": "EmailServicesFunction"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailStatus"
+      },
+      "QualifiedApiName": "EmailStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmailTemplate"
+      },
+      "QualifiedApiName": "EmailTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EmbeddedServiceDetail"
+      },
+      "QualifiedApiName": "EmbeddedServiceDetail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EntityDefinition"
+      },
+      "QualifiedApiName": "EntityDefinition"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EntityParticle"
+      },
+      "QualifiedApiName": "EntityParticle"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EntitySubscription"
+      },
+      "QualifiedApiName": "EntitySubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001ea4l"
+      },
+      "QualifiedApiName": "EO_2_0_Feedback__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001ea4l.ChangeEvent"
+      },
+      "QualifiedApiName": "EO_2_0_Feedback__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001ea4l.History"
+      },
+      "QualifiedApiName": "EO_2_0_Feedback__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001plJQ"
+      },
+      "QualifiedApiName": "EO_Case_Note__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001plJQ.ChangeEvent"
+      },
+      "QualifiedApiName": "EO_Case_Note__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Event"
+      },
+      "QualifiedApiName": "Event"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventBusSubscriber"
+      },
+      "QualifiedApiName": "EventBusSubscriber"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventChangeEvent"
+      },
+      "QualifiedApiName": "EventChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventFeed"
+      },
+      "QualifiedApiName": "EventFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventLogFile"
+      },
+      "QualifiedApiName": "EventLogFile"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventRelation"
+      },
+      "QualifiedApiName": "EventRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/EventRelationChangeEvent"
+      },
+      "QualifiedApiName": "EventRelationChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ExternalDataSource"
+      },
+      "QualifiedApiName": "ExternalDataSource"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ExternalDataUserAuth"
+      },
+      "QualifiedApiName": "ExternalDataUserAuth"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ExternalSocialAccount"
+      },
+      "QualifiedApiName": "ExternalSocialAccount"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedAttachment"
+      },
+      "QualifiedApiName": "FeedAttachment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedComment"
+      },
+      "QualifiedApiName": "FeedComment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedItem"
+      },
+      "QualifiedApiName": "FeedItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedLike"
+      },
+      "QualifiedApiName": "FeedLike"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedPollChoice"
+      },
+      "QualifiedApiName": "FeedPollChoice"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedPollVote"
+      },
+      "QualifiedApiName": "FeedPollVote"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedRevision"
+      },
+      "QualifiedApiName": "FeedRevision"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedSignal"
+      },
+      "QualifiedApiName": "FeedSignal"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FeedTrackedChange"
+      },
+      "QualifiedApiName": "FeedTrackedChange"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FieldDefinition"
+      },
+      "QualifiedApiName": "FieldDefinition"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FieldPermissions"
+      },
+      "QualifiedApiName": "FieldPermissions"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FileSearchActivity"
+      },
+      "QualifiedApiName": "FileSearchActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FiscalYearSettings"
+      },
+      "QualifiedApiName": "FiscalYearSettings"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FlexQueueItem"
+      },
+      "QualifiedApiName": "FlexQueueItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FlowInterview"
+      },
+      "QualifiedApiName": "FlowInterview"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FlowInterviewShare"
+      },
+      "QualifiedApiName": "FlowInterviewShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FlowRecordRelation"
+      },
+      "QualifiedApiName": "FlowRecordRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FlowStageRelation"
+      },
+      "QualifiedApiName": "FlowStageRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Folder"
+      },
+      "QualifiedApiName": "Folder"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/FolderedContentDocument"
+      },
+      "QualifiedApiName": "FolderedContentDocument"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ForecastingShare"
+      },
+      "QualifiedApiName": "ForecastingShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ForecastShare"
+      },
+      "QualifiedApiName": "ForecastShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oRxl"
+      },
+      "QualifiedApiName": "Gifts__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oRxl.ChangeEvent"
+      },
+      "QualifiedApiName": "Gifts__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oRxl.History"
+      },
+      "QualifiedApiName": "Gifts__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/GrantedByLicense"
+      },
+      "QualifiedApiName": "GrantedByLicense"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Group"
+      },
+      "QualifiedApiName": "Group"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/GroupMember"
+      },
+      "QualifiedApiName": "GroupMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001pXgi"
+      },
+      "QualifiedApiName": "HCN_Billing_Feed__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001pXgi.ChangeEvent"
+      },
+      "QualifiedApiName": "HCN_Billing_Feed__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Holiday"
+      },
+      "QualifiedApiName": "Holiday"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001joXo"
+      },
+      "QualifiedApiName": "ICD_10__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001joXo.ChangeEvent"
+      },
+      "QualifiedApiName": "ICD_10__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001joXo.History"
+      },
+      "QualifiedApiName": "ICD_10__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Seq2"
+      },
+      "QualifiedApiName": "ICD_9__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Seq2.ChangeEvent"
+      },
+      "QualifiedApiName": "ICD_9__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000Seq2.History"
+      },
+      "QualifiedApiName": "ICD_9__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Idea"
+      },
+      "QualifiedApiName": "Idea"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/IdeaComment"
+      },
+      "QualifiedApiName": "IdeaComment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/IdpEventLog"
+      },
+      "QualifiedApiName": "IdpEventLog"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Individual"
+      },
+      "QualifiedApiName": "Individual"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/IndividualHistory"
+      },
+      "QualifiedApiName": "IndividualHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/IndividualShare"
+      },
+      "QualifiedApiName": "IndividualShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/InstalledMobileApp"
+      },
+      "QualifiedApiName": "InstalledMobileApp"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oSUQ"
+      },
+      "QualifiedApiName": "Job_Description__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001oSUQ.ChangeEvent"
+      },
+      "QualifiedApiName": "Job_Description__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001op6B"
+      },
+      "QualifiedApiName": "Jurisdiction__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001op6B.ChangeEvent"
+      },
+      "QualifiedApiName": "Jurisdiction__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/KnowledgeableUser"
+      },
+      "QualifiedApiName": "KnowledgeableUser"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Lead"
+      },
+      "QualifiedApiName": "Lead"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LeadChangeEvent"
+      },
+      "QualifiedApiName": "LeadChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LeadFeed"
+      },
+      "QualifiedApiName": "LeadFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LeadHistory"
+      },
+      "QualifiedApiName": "LeadHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LeadShare"
+      },
+      "QualifiedApiName": "LeadShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LeadStatus"
+      },
+      "QualifiedApiName": "LeadStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I5A000001k0iF"
+      },
+      "QualifiedApiName": "Lesson__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I5A000001k0iF.ChangeEvent"
+      },
+      "QualifiedApiName": "Lesson__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I5A000001k0iF.Feed"
+      },
+      "QualifiedApiName": "Lesson__Feed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LightningExperienceTheme"
+      },
+      "QualifiedApiName": "LightningExperienceTheme"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LightningToggleMetrics"
+      },
+      "QualifiedApiName": "LightningToggleMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LightningUsageByAppTypeMetrics"
+      },
+      "QualifiedApiName": "LightningUsageByAppTypeMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LightningUsageByBrowserMetrics"
+      },
+      "QualifiedApiName": "LightningUsageByBrowserMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LightningUsageByPageMetrics"
+      },
+      "QualifiedApiName": "LightningUsageByPageMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListEmail"
+      },
+      "QualifiedApiName": "ListEmail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListEmailChangeEvent"
+      },
+      "QualifiedApiName": "ListEmailChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListEmailRecipientSource"
+      },
+      "QualifiedApiName": "ListEmailRecipientSource"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListEmailShare"
+      },
+      "QualifiedApiName": "ListEmailShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListView"
+      },
+      "QualifiedApiName": "ListView"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListViewChart"
+      },
+      "QualifiedApiName": "ListViewChart"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ListViewChartInstance"
+      },
+      "QualifiedApiName": "ListViewChartInstance"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LoginGeo"
+      },
+      "QualifiedApiName": "LoginGeo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LoginHistory"
+      },
+      "QualifiedApiName": "LoginHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LoginIp"
+      },
+      "QualifiedApiName": "LoginIp"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LogoutEventStream"
+      },
+      "QualifiedApiName": "LogoutEventStream"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/LookedUpFromActivity"
+      },
+      "QualifiedApiName": "LookedUpFromActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Macro"
+      },
+      "QualifiedApiName": "Macro"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MacroHistory"
+      },
+      "QualifiedApiName": "MacroHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MacroInstruction"
+      },
+      "QualifiedApiName": "MacroInstruction"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MacroShare"
+      },
+      "QualifiedApiName": "MacroShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MailmergeTemplate"
+      },
+      "QualifiedApiName": "MailmergeTemplate"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MatchingRule"
+      },
+      "QualifiedApiName": "MatchingRule"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/MatchingRuleItem"
+      },
+      "QualifiedApiName": "MatchingRuleItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2S"
+      },
+      "QualifiedApiName": "Milestone1_Expense__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2S.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Expense__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2T"
+      },
+      "QualifiedApiName": "Milestone1_Log__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2T.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Log__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2U"
+      },
+      "QualifiedApiName": "Milestone1_Milestone__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2U.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Milestone__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2U.Feed"
+      },
+      "QualifiedApiName": "Milestone1_Milestone__Feed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2V"
+      },
+      "QualifiedApiName": "Milestone1_Project__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2V.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Project__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2V.Feed"
+      },
+      "QualifiedApiName": "Milestone1_Project__Feed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2W"
+      },
+      "QualifiedApiName": "Milestone1_Settings__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2W.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Settings__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2X"
+      },
+      "QualifiedApiName": "Milestone1_Task__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2X.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Task__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2X.Feed"
+      },
+      "QualifiedApiName": "Milestone1_Task__Feed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2Y"
+      },
+      "QualifiedApiName": "Milestone1_Time__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2Y.ChangeEvent"
+      },
+      "QualifiedApiName": "Milestone1_Time__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Name"
+      },
+      "QualifiedApiName": "Name"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/NamedCredential"
+      },
+      "QualifiedApiName": "NamedCredential"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Note"
+      },
+      "QualifiedApiName": "Note"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/NoteAndAttachment"
+      },
+      "QualifiedApiName": "NoteAndAttachment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OauthToken"
+      },
+      "QualifiedApiName": "OauthToken"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ObjectPermissions"
+      },
+      "QualifiedApiName": "ObjectPermissions"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpenActivity"
+      },
+      "QualifiedApiName": "OpenActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Opportunity"
+      },
+      "QualifiedApiName": "Opportunity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityChangeEvent"
+      },
+      "QualifiedApiName": "OpportunityChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityCompetitor"
+      },
+      "QualifiedApiName": "OpportunityCompetitor"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityContactRole"
+      },
+      "QualifiedApiName": "OpportunityContactRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityFeed"
+      },
+      "QualifiedApiName": "OpportunityFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityFieldHistory"
+      },
+      "QualifiedApiName": "OpportunityFieldHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityHistory"
+      },
+      "QualifiedApiName": "OpportunityHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityLineItem"
+      },
+      "QualifiedApiName": "OpportunityLineItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityPartner"
+      },
+      "QualifiedApiName": "OpportunityPartner"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityShare"
+      },
+      "QualifiedApiName": "OpportunityShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OpportunityStage"
+      },
+      "QualifiedApiName": "OpportunityStage"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Organization"
+      },
+      "QualifiedApiName": "Organization"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OrgLifecycleNotification"
+      },
+      "QualifiedApiName": "OrgLifecycleNotification"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OrgWideEmailAddress"
+      },
+      "QualifiedApiName": "OrgWideEmailAddress"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001opqV"
+      },
+      "QualifiedApiName": "Other_Activity__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001opqV.ChangeEvent"
+      },
+      "QualifiedApiName": "Other_Activity__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OutgoingEmail"
+      },
+      "QualifiedApiName": "OutgoingEmail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OutgoingEmailRelation"
+      },
+      "QualifiedApiName": "OutgoingEmailRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F7"
+      },
+      "QualifiedApiName": "Oversight__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F7.ChangeEvent"
+      },
+      "QualifiedApiName": "Oversight__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OwnedContentDocument"
+      },
+      "QualifiedApiName": "OwnedContentDocument"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/OwnerChangeOptionInfo"
+      },
+      "QualifiedApiName": "OwnerChangeOptionInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PackageLicense"
+      },
+      "QualifiedApiName": "PackageLicense"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Partner"
+      },
+      "QualifiedApiName": "Partner"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PartnerRole"
+      },
+      "QualifiedApiName": "PartnerRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Period"
+      },
+      "QualifiedApiName": "Period"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PermissionSet"
+      },
+      "QualifiedApiName": "PermissionSet"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PermissionSetAssignment"
+      },
+      "QualifiedApiName": "PermissionSetAssignment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PermissionSetLicense"
+      },
+      "QualifiedApiName": "PermissionSetLicense"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PermissionSetLicenseAssign"
+      },
+      "QualifiedApiName": "PermissionSetLicenseAssign"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F8"
+      },
+      "QualifiedApiName": "Physical_Therapy__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F8.ChangeEvent"
+      },
+      "QualifiedApiName": "Physical_Therapy__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PicklistValueInfo"
+      },
+      "QualifiedApiName": "PicklistValueInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PlatformAction"
+      },
+      "QualifiedApiName": "PlatformAction"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PlatformCachePartition"
+      },
+      "QualifiedApiName": "PlatformCachePartition"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PlatformCachePartitionType"
+      },
+      "QualifiedApiName": "PlatformCachePartitionType"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000wpe6"
+      },
+      "QualifiedApiName": "Prescription__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000wpe6.ChangeEvent"
+      },
+      "QualifiedApiName": "Prescription__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000wpe6.History"
+      },
+      "QualifiedApiName": "Prescription__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Pricebook2"
+      },
+      "QualifiedApiName": "Pricebook2"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Pricebook2History"
+      },
+      "QualifiedApiName": "Pricebook2History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PricebookEntry"
+      },
+      "QualifiedApiName": "PricebookEntry"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fq"
+      },
+      "QualifiedApiName": "Procedure__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fq.ChangeEvent"
+      },
+      "QualifiedApiName": "Procedure__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessDefinition"
+      },
+      "QualifiedApiName": "ProcessDefinition"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessInstance"
+      },
+      "QualifiedApiName": "ProcessInstance"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessInstanceHistory"
+      },
+      "QualifiedApiName": "ProcessInstanceHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessInstanceNode"
+      },
+      "QualifiedApiName": "ProcessInstanceNode"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessInstanceStep"
+      },
+      "QualifiedApiName": "ProcessInstanceStep"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessInstanceWorkitem"
+      },
+      "QualifiedApiName": "ProcessInstanceWorkitem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ProcessNode"
+      },
+      "QualifiedApiName": "ProcessNode"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Product2"
+      },
+      "QualifiedApiName": "Product2"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Product2ChangeEvent"
+      },
+      "QualifiedApiName": "Product2ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Product2Feed"
+      },
+      "QualifiedApiName": "Product2Feed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Product2History"
+      },
+      "QualifiedApiName": "Product2History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Profile"
+      },
+      "QualifiedApiName": "Profile"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2Z"
+      },
+      "QualifiedApiName": "Project_Snapshot__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000SS2Z.ChangeEvent"
+      },
+      "QualifiedApiName": "Project_Snapshot__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F9"
+      },
+      "QualifiedApiName": "Provider__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9F9.ChangeEvent"
+      },
+      "QualifiedApiName": "Provider__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000xC4C"
+      },
+      "QualifiedApiName": "Provider_Location__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000xC4C.ChangeEvent"
+      },
+      "QualifiedApiName": "Provider_Location__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000xC4C.History"
+      },
+      "QualifiedApiName": "Provider_Location__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9FA"
+      },
+      "QualifiedApiName": "Provider_to_Case__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9FA.ChangeEvent"
+      },
+      "QualifiedApiName": "Provider_to_Case__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Publisher"
+      },
+      "QualifiedApiName": "Publisher"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/PushTopic"
+      },
+      "QualifiedApiName": "PushTopic"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Question"
+      },
+      "QualifiedApiName": "Question"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuestionDataCategorySelection"
+      },
+      "QualifiedApiName": "QuestionDataCategorySelection"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuestionReportAbuse"
+      },
+      "QualifiedApiName": "QuestionReportAbuse"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuestionSubscription"
+      },
+      "QualifiedApiName": "QuestionSubscription"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QueueSobject"
+      },
+      "QualifiedApiName": "QueueSobject"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuickText"
+      },
+      "QualifiedApiName": "QuickText"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuickTextHistory"
+      },
+      "QualifiedApiName": "QuickTextHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/QuickTextShare"
+      },
+      "QualifiedApiName": "QuickTextShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/RecentlyViewed"
+      },
+      "QualifiedApiName": "RecentlyViewed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/RecordAction"
+      },
+      "QualifiedApiName": "RecordAction"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/RecordType"
+      },
+      "QualifiedApiName": "RecordType"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/RelationshipDomain"
+      },
+      "QualifiedApiName": "RelationshipDomain"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/RelationshipInfo"
+      },
+      "QualifiedApiName": "RelationshipInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Reply"
+      },
+      "QualifiedApiName": "Reply"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ReplyReportAbuse"
+      },
+      "QualifiedApiName": "ReplyReportAbuse"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Report"
+      },
+      "QualifiedApiName": "Report"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ReportFeed"
+      },
+      "QualifiedApiName": "ReportFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TIt3"
+      },
+      "QualifiedApiName": "Return_to_work__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TIt3.ChangeEvent"
+      },
+      "QualifiedApiName": "Return_to_work__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000TIt3.History"
+      },
+      "QualifiedApiName": "Return_to_work__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SamlSsoConfig"
+      },
+      "QualifiedApiName": "SamlSsoConfig"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Scontrol"
+      },
+      "QualifiedApiName": "Scontrol"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SearchActivity"
+      },
+      "QualifiedApiName": "SearchActivity"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SearchLayout"
+      },
+      "QualifiedApiName": "SearchLayout"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SecureAgentsCluster"
+      },
+      "QualifiedApiName": "SecureAgentsCluster"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SecurityCustomBaseline"
+      },
+      "QualifiedApiName": "SecurityCustomBaseline"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38N"
+      },
+      "QualifiedApiName": "Service_Provider_to_Diagnosis__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38N.ChangeEvent"
+      },
+      "QualifiedApiName": "Service_Provider_to_Diagnosis__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000000T38N.History"
+      },
+      "QualifiedApiName": "Service_Provider_to_Diagnosis__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SessionPermSetActivation"
+      },
+      "QualifiedApiName": "SessionPermSetActivation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SetupAuditTrail"
+      },
+      "QualifiedApiName": "SetupAuditTrail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SetupEntityAccess"
+      },
+      "QualifiedApiName": "SetupEntityAccess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Site"
+      },
+      "QualifiedApiName": "Site"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SiteDetail"
+      },
+      "QualifiedApiName": "SiteDetail"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SiteFeed"
+      },
+      "QualifiedApiName": "SiteFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SiteHistory"
+      },
+      "QualifiedApiName": "SiteHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPersona"
+      },
+      "QualifiedApiName": "SocialPersona"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPersonaHistory"
+      },
+      "QualifiedApiName": "SocialPersonaHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPost"
+      },
+      "QualifiedApiName": "SocialPost"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPostFeed"
+      },
+      "QualifiedApiName": "SocialPostFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPostHistory"
+      },
+      "QualifiedApiName": "SocialPostHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SocialPostShare"
+      },
+      "QualifiedApiName": "SocialPostShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Solution"
+      },
+      "QualifiedApiName": "Solution"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SolutionFeed"
+      },
+      "QualifiedApiName": "SolutionFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SolutionHistory"
+      },
+      "QualifiedApiName": "SolutionHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/SolutionStatus"
+      },
+      "QualifiedApiName": "SolutionStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Stamp"
+      },
+      "QualifiedApiName": "Stamp"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/StampAssignment"
+      },
+      "QualifiedApiName": "StampAssignment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/StaticResource"
+      },
+      "QualifiedApiName": "StaticResource"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/StreamingChannel"
+      },
+      "QualifiedApiName": "StreamingChannel"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/StreamingChannelShare"
+      },
+      "QualifiedApiName": "StreamingChannelShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fr"
+      },
+      "QualifiedApiName": "Surgery__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01I31000001p9Fr.ChangeEvent"
+      },
+      "QualifiedApiName": "Surgery__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001qNuO"
+      },
+      "QualifiedApiName": "Surgery_Diagnostics__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001qNuO.ChangeEvent"
+      },
+      "QualifiedApiName": "Surgery_Diagnostics__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001qNuO.History"
+      },
+      "QualifiedApiName": "Surgery_Diagnostics__History"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Task"
+      },
+      "QualifiedApiName": "Task"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TaskChangeEvent"
+      },
+      "QualifiedApiName": "TaskChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TaskFeed"
+      },
+      "QualifiedApiName": "TaskFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TaskPriority"
+      },
+      "QualifiedApiName": "TaskPriority"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TaskStatus"
+      },
+      "QualifiedApiName": "TaskStatus"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TenantSecret"
+      },
+      "QualifiedApiName": "TenantSecret"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TenantUsageEntitlement"
+      },
+      "QualifiedApiName": "TenantUsageEntitlement"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TestSuiteMembership"
+      },
+      "QualifiedApiName": "TestSuiteMembership"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/ThirdPartyAccountLink"
+      },
+      "QualifiedApiName": "ThirdPartyAccountLink"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TodayGoal"
+      },
+      "QualifiedApiName": "TodayGoal"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TodayGoalShare"
+      },
+      "QualifiedApiName": "TodayGoalShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Topic"
+      },
+      "QualifiedApiName": "Topic"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TopicAssignment"
+      },
+      "QualifiedApiName": "TopicAssignment"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TopicFeed"
+      },
+      "QualifiedApiName": "TopicFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/TopicUserEvent"
+      },
+      "QualifiedApiName": "TopicUserEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001olkg"
+      },
+      "QualifiedApiName": "Transportation__c"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/01Ii0000001olkg.ChangeEvent"
+      },
+      "QualifiedApiName": "Transportation__ChangeEvent"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UndecidedEventRelation"
+      },
+      "QualifiedApiName": "UndecidedEventRelation"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/User"
+      },
+      "QualifiedApiName": "User"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserAccountTeamMember"
+      },
+      "QualifiedApiName": "UserAccountTeamMember"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserAppInfo"
+      },
+      "QualifiedApiName": "UserAppInfo"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserAppMenuCustomization"
+      },
+      "QualifiedApiName": "UserAppMenuCustomization"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserAppMenuCustomizationShare"
+      },
+      "QualifiedApiName": "UserAppMenuCustomizationShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserAppMenuItem"
+      },
+      "QualifiedApiName": "UserAppMenuItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserEntityAccess"
+      },
+      "QualifiedApiName": "UserEntityAccess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserFeed"
+      },
+      "QualifiedApiName": "UserFeed"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserFieldAccess"
+      },
+      "QualifiedApiName": "UserFieldAccess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserLicense"
+      },
+      "QualifiedApiName": "UserLicense"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserListView"
+      },
+      "QualifiedApiName": "UserListView"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserListViewCriterion"
+      },
+      "QualifiedApiName": "UserListViewCriterion"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserLogin"
+      },
+      "QualifiedApiName": "UserLogin"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserPackageLicense"
+      },
+      "QualifiedApiName": "UserPackageLicense"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserPermissionAccess"
+      },
+      "QualifiedApiName": "UserPermissionAccess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserPreference"
+      },
+      "QualifiedApiName": "UserPreference"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvAccount"
+      },
+      "QualifiedApiName": "UserProvAccount"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvAccountStaging"
+      },
+      "QualifiedApiName": "UserProvAccountStaging"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvisioningConfig"
+      },
+      "QualifiedApiName": "UserProvisioningConfig"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvisioningLog"
+      },
+      "QualifiedApiName": "UserProvisioningLog"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvisioningRequest"
+      },
+      "QualifiedApiName": "UserProvisioningRequest"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvisioningRequestShare"
+      },
+      "QualifiedApiName": "UserProvisioningRequestShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserProvMockTarget"
+      },
+      "QualifiedApiName": "UserProvMockTarget"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserRecordAccess"
+      },
+      "QualifiedApiName": "UserRecordAccess"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserRole"
+      },
+      "QualifiedApiName": "UserRole"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/UserShare"
+      },
+      "QualifiedApiName": "UserShare"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/VerificationHistory"
+      },
+      "QualifiedApiName": "VerificationHistory"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/VisualforceAccessMetrics"
+      },
+      "QualifiedApiName": "VisualforceAccessMetrics"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/Vote"
+      },
+      "QualifiedApiName": "Vote"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/WaveCompatibilityCheckItem"
+      },
+      "QualifiedApiName": "WaveCompatibilityCheckItem"
+    },
+    {
+      "attributes": {
+        "type": "EntityDefinition",
+        "url": "/services/data/v42.0/sobjects/EntityDefinition/WebLink"
+      },
+      "QualifiedApiName": "WebLink"
+    }
+  ]
+}
